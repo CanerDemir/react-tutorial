@@ -39,7 +39,7 @@
     "lodash.template": "^4.5.0",
     "macaddress": "^0.2.9",
     "mem": "^5.1.1",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "mime": "^2.4.4",
     "nwmatcher": "^1.4.4",
     "object-assign": "4.1.1",
